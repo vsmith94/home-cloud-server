@@ -1,0 +1,2 @@
+.item{display:flex;align-items:center;justify-content:center;flex-grow:1;background-color:snow;height:2rem;width:100%;padding-top:.5rem;padding-bottom:.5rem}.item:hover{background-color:#dc143c}.item-name{white-space:nowrap;text-overflow:ellipsis;overflow:hidden;text-align:left;min-width:10rem;max-width:20rem}.item-name,.item-size{padding-right:2rem}.drop-area{background-color:#999;width:100%;min-height:20em;max-height:20em}.drag-on{background-color:violet}ul{list-style:none}
+/*# sourceMappingURL=main.8375b776.chunk.css.map */

@@ -1,0 +1,23 @@
+# Basic Commands
+- npx create-react-app [app-name] => Creates a new react project. Takes awhile.
+- npx build
+- npx start
+
+
+# JSX
+- Syntax extension
+- Describe what the UI look like.
+- Produces React "elements"
+- Components -> logic and markup loosely coupled and also concerns (SoC)
+- After compilation JSX becomes normal JS
+    - Becomes React.createElement() calls.
+- JSX prevents injection attacks
+
+
+# Components
+- Should have only a single root element (unless fragments <React.Fragment>)
+- Class Components
+    - Good'ol class
+- Functional Components
+    - Function that returns a valid react component
+- Dumb components : they don't care what kind of data is being passed in. Only looks ;)
